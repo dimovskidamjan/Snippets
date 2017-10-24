@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>xsPrepareForSegue</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>  override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+    if segue.identifier == &lt;#identifier#&gt; {
+      if let controller = segue.destination as? &lt;# destination view controller class#&gt;{
+
+      }
+    }
+  }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>52859202-3117-4A99-AE0E-2F56ABC82201</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Provides a prototype for the prepare(for segue:) method.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>XS Prepare for segue</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
