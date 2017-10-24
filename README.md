@@ -1,5 +1,5 @@
 # Snippets
-A library of often used code snippets for internal use.
+A library of often used code snippets for internal use with Xcode.
 
 ## Usage
 Follow these steps to copy the code snippets from this repo to your Xcode.
@@ -10,8 +10,8 @@ Follow these steps to copy the code snippets from this repo to your Xcode.
 
 ## Contributions
 If you want to add or edit a snippet, please follow these conventions:
-1. Prefix the snippet title with XS followed with the snippet name in capitalized camel case (XSSnippetName).
-2. Prefix the snippet autocompletion keyword with xs followed with the keyword(xssnippetKeyword).
+1. Prefix the snippet title with XS followed with the snippet name in (XS Snippet Name).
+2. Prefix the snippet autocompletion keyword with xs followed with the keyword(xsSnippetKeyword).
 3. Please use a descriptive title and write a snippet summary so that other users know what your snippet does.
 
 ## Creating a new snippet
