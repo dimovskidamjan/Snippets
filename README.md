@@ -5,8 +5,8 @@ A library of often used code snippets for internal use.
 Follow these steps to copy the code snippets from this repo to your Xcode.
 1. Download the repo zip file.
 2. Navigate to downloaded folder in Terminal.
-3. Set executable permissions to shell script file using command: `chmod -x script.sh`
-4. Run shell script using command: `sudo sh script.sh`
+3. Run shell script using command: `sudo sh script.sh`
+4. Restart Xcode so that the changes take effect.
 
 ## Contributions
 If you want to add or edit a snippet, please follow these conventions:
