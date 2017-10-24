@@ -1,5 +1,5 @@
-# Snippets
-A library of often used code snippets for internal use with Xcode.
+# { Snippets }
+A collection of often used code snippets for internal use with Xcode, reflecting latest trends and recommendations for writing Swift code.
 
 ## Usage
 Follow these steps to copy the code snippets from this repo to your Xcode.
