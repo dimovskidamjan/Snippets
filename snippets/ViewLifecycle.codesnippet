@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xsviewLifecycle</string>
+	<string>xsViewLifecycleMark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>StringOrComment</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> MARK: - View Lifecycle</string>
+	<string>// MARK: - View Lifecycle</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F8720ACC-7405-4407-8DA4-B1B43FBAF442</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Places a mark for View lifecycle</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>XSViewLifecycleMark</string>
+	<string>XS View Lifecycle Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

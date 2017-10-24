@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xsactions</string>
+	<string>xsActionsMark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>StringOrComment</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> MARK: - Actions</string>
+	<string>// MARK: - Actions</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F6255152-DB03-49A0-995E-46D588ACB23C</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Places a mark for actions</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>XSActionsMark</string>
+	<string>XS Actions Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

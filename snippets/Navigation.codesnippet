@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xsnavigation</string>
+	<string>xsNavigationMark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>StringOrComment</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> MARK: - Navigation</string>
+	<string>// MARK: - Navigation</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D73F12AB-A578-494D-986F-26EA7FE8F66E</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Places a mark for navigation</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>XSNavigationMark</string>
+	<string>XS Navigation Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

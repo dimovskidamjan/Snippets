@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xsproperties</string>
+	<string>xsPropertiesMark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>StringOrComment</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> MARK: - Properties</string>
+	<string>// MARK: - Properties</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D3DF864C-6360-4456-AC42-AB537669D372</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Places a mark for properties</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>XSPropertiesMark</string>
+	<string>XS Properties Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

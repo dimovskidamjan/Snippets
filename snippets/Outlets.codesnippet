@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xsoutlets</string>
+	<string>xsOutletsMark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>StringOrComment</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> MARK: - Outlets</string>
+	<string>// MARK: - Outlets</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6C518416-2CC3-43D8-9C2D-2DC878D03FB7</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Places a mark for outlets</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>XSOutletsMark</string>
+	<string>XS Outlets Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
