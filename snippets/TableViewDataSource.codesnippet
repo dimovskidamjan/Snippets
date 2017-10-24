@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>// MARK: - UITableView DataSource Methods
 
-extension RestaurantsHomeViewController: UITableViewDataSource {
+extension &lt;#view controller class#&gt;: UITableViewDataSource {
   
   func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
       return &lt;#number#&gt;
@@ -23,7 +23,9 @@ extension RestaurantsHomeViewController: UITableViewDataSource {
       &lt;#configure your cell here#&gt;
     }
     return cell
-}</string>
+  }
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8FEDB26D-1FD4-42A2-ABD2-30144D68CE43</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -35,6 +37,6 @@ extension RestaurantsHomeViewController: UITableViewDataSource {
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
